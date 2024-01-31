@@ -1,4 +1,4 @@
-# Record ATK Results Website
+# Recording ATK Results
 
 Developed the Record ATK web application, facilitating the input of student information, vaccination records, and student ATK results into a database; it is particularly useful during COVID-19
 
